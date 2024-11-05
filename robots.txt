@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onegoufo.github.io/OoB/sitemap_index.txt
+Sitemap: https://onegoufo.github.io/SNk/sitemap_index.txt
+Sitemap: https://onegoufo.github.io/XAu/sitemap_index.txt
+Sitemap: https://onegoufo.github.io/nXr/sitemap_index.txt
